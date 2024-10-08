@@ -10,7 +10,6 @@
 .title {
     color: var(--color-text);
     font-size: 45px;
-    
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
@@ -76,7 +75,7 @@
 }
 
 .historyItem img{
-    width: 50px;
+    width: 70px;
 }
 
 .historyItemDetails {
