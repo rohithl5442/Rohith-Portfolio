@@ -11,7 +11,7 @@
 }
 
 .title {
-  font-size: 30px;
+  font-size: 45px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
@@ -33,7 +33,7 @@
 }
 
 .menuItems a {
-  font-size: 25px;
+  font-size: 30px;
   color: var(--color-text);
   text-decoration: none;
 }
