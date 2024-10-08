@@ -7,7 +7,7 @@
       "experiences": ["Developed secure, scalable web app", 
       "Led frontend & backend development", "Used React, Node.js, Python, SQL", "Integrated external APIs",
     "Applied Agile with daily standups", "Conducted code reviews for quality", "Delivered key project milestones on time"],
-      "imageSrc": "history/NSWC Logo.png"
+      "imageSrc": "history/NSWC.png"
     },
     {
       "role": "Software Engineering Projects Team Lead",
@@ -16,7 +16,7 @@
       "endDate": "May, 2024",
       "experiences": ["Created bookstore database management system", "Built Ping Pong game with Python",
     "Developed pizza ordering system interface", "Designed bug tracking system with CSV", "Used Python, Tkinter, Pandas libraries"],
-      "imageSrc": "history/microsoft.png"
+      "imageSrc": "history/Wayne copy.png"
     },
     {
       "role": "Frontend Developer | UI/UX Designer",
@@ -30,6 +30,6 @@
         "Built intuitive, visually appealing interfaces",
         "Specialized in frontend development optimizations"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/logoGradient.png"
     }
   ]
