@@ -1,5 +1,65 @@
 [
     {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/c++.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mySQL.png"
+    },
+    {
+      "title": "Azure",
+      "imageSrc": "skills/azure.png"
+    },
+    {
+      "title": "PHP",
+      "imageSrc": "skills/php.png"
+    },
+    {
+      "title": "Oracle",
+      "imageSrc": "skills/Oracle logo.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Jest",
+      "imageSrc": "skills/jest.png"
+    },
+    {
+      "title": "mongo DB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/js.png"
+    },
+    {
+      "title": "Node JS",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
       "title": "HTML",
       "imageSrc": "skills/html.png"
     },
@@ -8,23 +68,7 @@
       "imageSrc": "skills/css.png"
     },
     {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
-    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Git",
+      "imageSrc": "skills/git.png"
     }
   ]
