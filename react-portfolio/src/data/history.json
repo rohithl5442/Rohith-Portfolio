@@ -1,28 +1,34 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "role": "Senior Capstone Team Lead",
+      "organisation": "NSWC",
+      "startDate": "May, 2024",
+      "endDate": "Jul, 2024",
+      "experiences": ["Developed secure, scalable web app", 
+      "Led frontend & backend development", "Used React, Node.js, Python, SQL", "Integrated external APIs",
+    "Applied Agile with daily standups", "Conducted code reviews for quality", "Delivered key project milestones on time"],
       "imageSrc": "history/NSWC Logo.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "role": "Software Engineering Projects Team Lead",
+      "organisation": "WSU",
+      "startDate": "Jan, 2024",
+      "endDate": "May, 2024",
+      "experiences": ["Created bookstore database management system", "Built Ping Pong game with Python",
+    "Developed pizza ordering system interface", "Designed bug tracking system with CSV", "Used Python, Tkinter, Pandas libraries"],
       "imageSrc": "history/microsoft.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Frontend Developer | UI/UX Designer",
+      "organisation": "(Freelance)",
+      "startDate": "Aug, 2022",
+      "endDate": "Present",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Developed responsive websites with React",
+        "Designed mobile-first UI/UX interfaces",
+        "Created wireframes with Figma and Adobe",
+        "Built intuitive, visually appealing interfaces",
+        "Specialized in frontend development optimizations"
       ],
       "imageSrc": "history/netflix.png"
     }

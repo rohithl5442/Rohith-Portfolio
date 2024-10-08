@@ -24,8 +24,8 @@
 
 .skills{
     width: 45%;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
     gap: 37px;
 }
 
@@ -42,16 +42,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 120px;
-    height: 120px;
+    width: 60px;
+    height: 60px;
 }
 
 .skillImageContainer img{
-    width: 75px;
+    width: 40px;
 }
 
 .skill p {
-    font-size: 25px;
+    font-size: 20px;
     font-family: var(--font-roboto);
     font-weight: 500;
 }
@@ -95,7 +95,7 @@
 .historyItemDetails ul {
     margin-top: 6px;
     list-style-position: inside;
-    font-size: 25px;
+    font-size: 16px;
     list-style-type: disc;
     margin-left: 17px;
 }

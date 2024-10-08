@@ -8,6 +8,7 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  height: 800px;
 }
 
 .image {
@@ -21,16 +22,16 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
+  font-family: var(--font-roboto);
 }
 
 .skills {
   width: 100%;
   margin-top: 14px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
   gap: 6px;
   list-style: none;
 }
@@ -41,6 +42,7 @@
   border-radius: 100px;
   background: var(--color-dark);
   padding: 2px 22px;
+  text-align: center;
 }
 
 .links {

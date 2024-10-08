@@ -2,23 +2,23 @@
     {
       "title": "Senior Capstone Project",
       "imageSrc": "projects/DOD seal.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "Developed a secure and scalable web application for the U.S. Department of Defense, focusing on data-driven decision-making while adhering to strict compliance and security standards.",
+      "skills": ["React", "Node", "Python", "MySQL", "Pandas","Flask"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Software Engineering Projects",
+      "title": "Software Engineering Project",
       "imageSrc": "projects/Project2.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "Developed a series of software development projects focusing on real-world applications. Projects include GUI-based bookstore management system, dynamic Ping Pong game, Pizza ordering & a Bug Tracking system.",
+      "skills": ["Python", "Tkinter", "Pandas", "Turtle"],
       "demo": "https://github.com/rohithl5442/Software-Engineering-Projects/blob/main/README.md",
       "source": "https://github.com/rohithl5442/Software-Engineering-Projects/"
     },
     {
-      "title": "Project C",
+      "title": "Turtle Project, Python",
       "imageSrc": "projects/turtle.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Developed a Python-based animation story using the Turtle library and it's graphics. The project includes features turtle movement, and all different nature oriented scenarios.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
