@@ -18,12 +18,15 @@
 .title {
   font-size: 25px;
   font-weight: 700;
+  text-align: center;
 }
 
 .description {
-  margin-top: 6px;
+  margin-top: 30px;
+  margin-bottom: 10px;
   font-size: 20px;
   font-weight: 400;
+  text-align: center;
   font-family: var(--font-roboto);
 }
 
@@ -37,12 +40,15 @@
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
   padding: 2px 22px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .links {

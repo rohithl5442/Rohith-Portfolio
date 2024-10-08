@@ -2,24 +2,24 @@
     {
       "title": "Senior Capstone Project",
       "imageSrc": "projects/DOD seal.png",
-      "description": "Developed a secure and scalable web application for the U.S. Department of Defense, focusing on data-driven decision-making while adhering to strict compliance and security standards.",
-      "skills": ["React", "Node", "Python", "MySQL", "Pandas","Flask"],
+      "description": "Developed a secure, full-stack web application for the U.S. Department of Defense, emphasizing data-driven decision-making and strict security standards.",
+      "skills": ["Python", "MySQL", "Pandas","Flask", "React", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Software Engineering Project",
+      "title": "SWE Projects",
       "imageSrc": "projects/Project2.png",
-      "description": "Developed a series of software development projects focusing on real-world applications. Projects include GUI-based bookstore management system, dynamic Ping Pong game, Pizza ordering & a Bug Tracking system.",
-      "skills": ["Python", "Tkinter", "Pandas", "Turtle"],
+      "description": "Developed multiple software projects, including a bookstore system, dynamic Ping Pong game, pizza ordering, and bug tracking tools, using GUI-based interfaces.",
+      "skills": ["Python", "Tkinter", "Pandas", "Turtle", "HTML", "CSS"],
       "demo": "https://github.com/rohithl5442/Software-Engineering-Projects/blob/main/README.md",
       "source": "https://github.com/rohithl5442/Software-Engineering-Projects/"
     },
     {
-      "title": "Turtle Project, Python",
+      "title": "Turtle Project - Python",
       "imageSrc": "projects/turtle.png",
-      "description": "Developed a Python-based animation story using the Turtle library and it's graphics. The project includes features turtle movement, and all different nature oriented scenarios.",
-      "skills": ["React", "Express", "Node"],
+      "description": "Developed an interactive Python-based Turtle Graphics animation where the turtle explores vacation spots like California & Washington, then builds homes, and enjoys nature.",
+      "skills": ["Python", "Turtle", "OOP", "Ctrl Struc", "Graph Sim", "Math"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
