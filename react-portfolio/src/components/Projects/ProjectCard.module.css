@@ -61,9 +61,10 @@
 .link {
   text-decoration: none;
   color: var(--color-text);
-  font-size: 30px;
+  font-size: 27px;
   font-weight: 600;
   border-radius: 100px;
   background: var(--color-primary);
   padding: 1px 22px;
+  justify-content: center;
 }
