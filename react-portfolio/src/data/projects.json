@@ -4,8 +4,8 @@
       "imageSrc": "projects/DOD seal.png",
       "description": "Developed a secure, full-stack web application for the U.S. Department of Defense, emphasizing data-driven decision-making and strict security standards.",
       "skills": ["Python", "MySQL", "Pandas","Flask", "React", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://github.com/rohithl5442/NSWCCraneElectronicsSourcing/blob/final-phase/README.md",
+      "source": "https://github.com/4996wsu/NSWCCraneElectronicsSourcing"
     },
     {
       "title": "SWE Projects",
@@ -13,14 +13,14 @@
       "description": "Developed multiple software projects, including a bookstore system, dynamic Ping Pong game, pizza ordering, and bug tracking tools, using GUI-based interfaces.",
       "skills": ["Python", "Tkinter", "Pandas", "Turtle", "HTML", "CSS"],
       "demo": "https://github.com/rohithl5442/Software-Engineering-Projects/blob/main/README.md",
-      "source": "https://github.com/rohithl5442/Software-Engineering-Projects/"
+      "source": "https://github.com/rohithl5442/Software-Engineering-Projects/tree/main"
     },
     {
       "title": "Turtle Project - Python",
       "imageSrc": "projects/turtle.png",
       "description": "Developed an interactive Python-based Turtle Graphics animation where the turtle explores vacation spots like California & Washington, then builds homes, and enjoys nature.",
       "skills": ["Python", "Turtle", "OOP", "Ctrl Struc", "Graph Sim", "Math"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://github.com/rohithl5442/Python-Turtle-Graphics-Project/blob/main/README.md",
+      "source": "https://github.com/rohithl5442/Python-Turtle-Graphics-Project/tree/main"
     }
   ]
